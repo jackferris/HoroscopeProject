@@ -1,0 +1,55 @@
+/* style all elements in the <body> */
+body {
+    font-family: "Gujarati MT";
+    vertical-align: top;
+    text-align: center;
+    background-image: url("https://www.astromatcha.com/wp-content/uploads/2013/02/wheelongalaxybackgroundfeaturedimage.jpg");
+    border-radius: 5px;
+    border: #ff001b;
+    border-style: groove;
+}
+/* style all the buttons in a page */
+button {
+    width: 75px;
+    height: 30px;
+    color: black;
+    background: #ff001b;
+    font-size: 20px;
+    border-style: groove;
+    border-color: black;
+    margin-top: 10px;
+}
+#image {
+    margin-top: 25px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+#sign {
+    margin-top: 30px;
+    color: white;
+}
+/* style the element with the id “myId” */
+#paragraph {
+    font-size: 18px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 38px;
+    margin-bottom: 38px;
+   color: white;
+}
+
+#animal {
+    margin-right:450px;
+    margin-left: 450px;
+    color: white;
+
+}
+#fields {
+    color: white;
+}
+#title {
+    margin-top:  10px;
+    color: white;
+    font-size: 20px;
+}
+
